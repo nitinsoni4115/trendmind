@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+yfinance
+streamlit
+transformers
+torch
+scipy
+scikit-learn
+prophet
+matplotlib
+python-dotenv
+pymongo     # only if you plan to use MongoDB later

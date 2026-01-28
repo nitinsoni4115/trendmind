@@ -1,0 +1,6 @@
+# OS junk (safe to ignore)
+.DS_Store
+
+# Python cache (optional but harmless)
+__pycache__/
+*.pyc
