@@ -81,8 +81,8 @@ if __name__ == "__main__":
     scheduler.add_job(
         daily_job,
         trigger="cron",
-        hour=10,
-        minute=22,
+        hour=17,
+        minute=55,
         id="trendmind_daily_job",
         replace_existing=True
     )

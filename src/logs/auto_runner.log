@@ -16,3 +16,21 @@
 [2025-12-19 10:22:40] ========================================
 [2025-12-19 10:22:40] ✅ TrendMind Daily AI Job DONE
 [2025-12-19 10:22:40] ========================================
+[2026-01-30 17:48:51] 🕘 TrendMind automation started (daily 9:00 AM IST)
+[2026-01-30 17:52:57] 🕘 TrendMind automation started (daily 9:00 AM IST)
+[2026-01-30 17:53:21] 🕘 TrendMind automation started (daily 9:00 AM IST)
+[2026-01-30 17:54:02] 🕘 TrendMind automation started (daily 9:00 AM IST)
+[2026-01-30 17:55:00] ========================================
+[2026-01-30 17:55:00] 🤖 TrendMind Daily AI Job START
+[2026-01-30 17:55:00] ========================================
+[2026-01-30 17:55:00] 🚀 Running fetch_stocks.py
+[2026-01-30 17:55:04] ✅ fetch_stocks.py completed successfully
+[2026-01-30 17:55:04] 🚀 Running fetch_news.py
+[2026-01-30 17:55:11] ✅ fetch_news.py completed successfully
+[2026-01-30 17:55:11] 🚀 Running sentiment_finbert.py
+[2026-01-30 17:55:39] ✅ sentiment_finbert.py completed successfully
+[2026-01-30 17:55:39] 🚀 Running generate_signals.py
+[2026-01-30 17:55:42] ✅ generate_signals.py completed successfully
+[2026-01-30 17:55:42] ========================================
+[2026-01-30 17:55:42] ✅ TrendMind Daily AI Job DONE
+[2026-01-30 17:55:42] ========================================
