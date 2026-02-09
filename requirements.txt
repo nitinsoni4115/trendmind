@@ -1,13 +1,8 @@
+streamlit
 pandas
 numpy
-requests
 yfinance
-streamlit
-transformers
-torch
-scipy
+sqlite-utils
+apscheduler
+streamlit-autorefresh
 scikit-learn
-prophet
-matplotlib
-python-dotenv
-pymongo     # only if you plan to use MongoDB later
